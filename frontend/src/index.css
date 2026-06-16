@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Modern UI */
+body {
+  @apply bg-gradient-to-br from-indigo-900 via-purple-900 to-black text-white;
+}
